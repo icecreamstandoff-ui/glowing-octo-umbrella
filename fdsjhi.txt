@@ -1,1 +1,1 @@
-vless://babd170b-03b9-49a9-acf2-c90658c30360@217.144.186.0:443?encryption=none&security=reality&sni=media-markt.de&fp=firefox&pbk=nZ-ZeaQz4NrJObh6us7TKRhhGoBqg6LxSqQtSjGcCGA&sid=f1dcd08eb960c9fe&spx=%2F&type=xhttp&host=media-markt.de&path=%2Fapi%2Fv2%2Fcatalog%2Fitems&mode=auto#bogda_new
+фыв
